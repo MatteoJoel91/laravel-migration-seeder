@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Schema;
 class CreatePackagesTable extends Migration
 {
     /**
-     * Run the migration.
+     * Run the migrations.
      *
      * @return void
      */
