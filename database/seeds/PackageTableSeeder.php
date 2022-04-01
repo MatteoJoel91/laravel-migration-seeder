@@ -14,10 +14,10 @@ class PackageTableSeeder extends Seeder
     {
         $package = new Package();
 
-        $package->package_number = '12';
+        $package->package_number = '3';
         $package->name = 'Vacanza test';
         $package->description = null;
-        $package->price = 2000;
+        $package->price = 800;
 
         $package->save();
     }
